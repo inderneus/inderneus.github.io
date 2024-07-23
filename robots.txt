@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inderneus.github.io/sitemap
+Sitemap: https://inderneus.github.io/app/sitemap
+Sitemap: https://inderneus.github.io/assets/sitemap
+Sitemap: https://inderneus.github.io/css/sitemap
+Sitemap: https://inderneus.github.io/includes/sitemap
+Sitemap: https://inderneus.github.io/item/sitemap
+Sitemap: https://inderneus.github.io/src/sitemap
